@@ -43,6 +43,7 @@
 
   .span-example {
     color: red;
+    margin-left: 10px;
   }
 
   .span-example:hover {
