@@ -13,3 +13,26 @@ You can search "HTML entity ...... (middle dot for example)
 
 
 
+If you wanna target all the text in your code:
+<style>
+p {
+font-family: Arial;
+margin-top: 0px;
+margin-bottom: 20px
+}
+
+*** If there are multiple lines setting the same property: the browser follows the priority order.
+More specific selector has more priority.
+class name selector > element name selector
+
+Text element: they can exist inside a line of text without affecting the rest of the text.
+*** span element is useful cuz it comes with no style. We can give it a class.
+
+
+
+
+
+
+
+
+
