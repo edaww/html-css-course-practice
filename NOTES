@@ -28,6 +28,10 @@ class name selector > element name selector
 Text element: they can exist inside a line of text without affecting the rest of the text.
 *** span element is useful cuz it comes with no style. We can give it a class.
 
+Live Server extension on VS Code: No need to refresh the page to see the changes on the code.
+
+
+Google Fonts: You can find different font styles.
 
 
 
